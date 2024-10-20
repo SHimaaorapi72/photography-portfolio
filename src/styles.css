@@ -1,1 +1,39 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+  background-color: #F4F4F9 !important;
+  color: #333333 !important;
+  font-family: 'Roboto', sans-serif !important;
+}
+
+/* main{
+  margin-block: 90px !important;
+} */
+
+.btn {
+  border-radius: 25px !important;
+  transition: background-color 0.3s ease !important;
+}
+
+.btn:hover{
+  background-color: #FF6B6B !important;
+}
+
+
+.btn-primary {
+  background-color: #5A3E85 !important;
+  color: white !important;
+}
+
+.btn-primary:hover {
+  background-color: #462B6D !important;
+}
+
+
+a {
+  color: #5A3E85 !important;
+}
+
+a:hover {
+  color: #462B6D !important;
+}
+
+

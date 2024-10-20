@@ -1,0 +1,21 @@
+/* services.component.css */
+.card {
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.btn-primary {
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3; /* لون أغمق عند التمرير فوق الزر */
+  color: #ffffff;
+}
+
+h1{
+  margin-top: 90px;
+}
